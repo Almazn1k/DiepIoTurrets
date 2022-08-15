@@ -7,3 +7,4 @@ Changelog:
 2. Added Flang Guard and Twin
 3. Nerfed Basic (Range from 190 to 150)
 4. Buffed Sniper (Range from 290 to 300)
+5. Fixed some bugs
