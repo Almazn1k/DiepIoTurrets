@@ -1,13 +1,15 @@
 # DiepIoTurrets
 Added Diep io turrets to Mindustry
 
-Update BETA-1.0.22!
+Update BETA-1.0.33!
 Changelog:
-1. Added inaccuracy to Machine Gun
-2. Added Flang Guard and Twin
-3. Nerfed Basic (Range from 190 to 150)
-4. Buffed Sniper (Range from 290 to 300)
-5. Fixed some bugs
-6. Added Deep Sand
+1. Added Deep Iron and Deep Iron Ore
+2. Nerfed Basic
+3. Nerfed Sniper
+4. Nerfed Flang guard
+5. Buffed Machine Gun inaccuracy from 10 to 15 degrees.
+6. Now all turrets use deep sand to shoot
+7. Now all turrers made from deep iron.
 
-•−−−− •••••• −−−−− •••••• •••−− •••−− ••−−•− •• ••• ••−−•− −••• • − •− ••−−•− •− −• −•• ••−−•− •−− •• •−•• •−•• ••−−•− •−• • •−•• • •− ••• • ••−−•− •−−−− −−••• ••−−•− −−−−− −−−•• ••−−•− ••−−− ••−−− ••−−•− •− − ••−−•− •−−−− •−−−− −−−••• −−−−− −−−−− ••−−•− •− −− 
+ATTENTION!
+There's last beta version of "DiepioTurrets" modification. Now you will see a Pre-release of modification, and very soon a release 1.0!
