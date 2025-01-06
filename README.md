@@ -12,4 +12,4 @@ Changelog:
 7. Now all turrets made from deep iron.
 
 ATTENTION!
-There's last beta version of "DiepioTurrets" modification. Now you will see a Pre-release of modification, and very soon a release 1.0!
+There's last beta version of "DiepioTurrets" modification. Now you will see a Pre-release of modification, and very "soon" a release 1.0!
